@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 # 💫 About Me:
 🔭 I’m an AIML student focused on DSA with C++, Machine Learning, and Blockchain fundamentals, with an interest in building practical projects, improving problem-solving skills, and collaborating on impactful tech work.<br><br>
